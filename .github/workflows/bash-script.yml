@@ -13,4 +13,4 @@ jobs:
 
       - name: Run Bash script
         run: |
-          bash ./script.sh
+          bash ./bash.sh
